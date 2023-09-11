@@ -1,0 +1,18 @@
+.principalarea{
+    background-color:white;
+    padding: 50px 0;
+    text-align: center;
+}
+/* .principalarea img{
+
+}
+.principalarea h2{} */
+.gpap{
+    width: 80%;
+}
+.principalarea p{
+    text-align: justify;
+}
+.principalarea p:last-child{
+    text-align: right;
+}

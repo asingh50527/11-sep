@@ -1,0 +1,19 @@
+.footerarea{
+    background-color: black;
+    color: white;
+    padding: 50px 0;
+
+}
+.footerarea h4{
+    padding-left: 10px;
+    border-left: solid 5px white;
+}
+.footerarea p{
+    color: bisque;
+}
+.footerarea ul{
+    list-style: none;
+    color: #B13F22;
+    margin: 0;
+    padding: 0;
+}
